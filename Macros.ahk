@@ -1,4 +1,4 @@
-﻿$w::
+$w::
 While GetKeyState("w","P")
 { 
  Send, w 
